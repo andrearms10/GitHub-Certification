@@ -4,6 +4,6 @@ Este é o início da sua base de conhecimento. Adicione mais arquivos `.md` para
 
 ## Seções
 
-- [Introdução](introducao.md)
+- [Introdução](/doc/introducao.md)
 - [Guia de Uso](guia-de-uso.md)
 - [FAQs](faqs.md)
