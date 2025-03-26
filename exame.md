@@ -2,7 +2,7 @@
 
 ## Capítulo 1
 
-
+## Capítulo 2
 
 
 ## Capítulo 3
@@ -13,9 +13,6 @@
 
 ## Capitulo 6
 
+## Capitulo 7
 
-
-Capítulo 8
-=======
-Capitulo 7
-
+## Capítulo 8
